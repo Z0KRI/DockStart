@@ -1,3 +1,5 @@
-/database/
-/vendor/
+/vendor
+/mysql
+
 README.md
+composer.lock
